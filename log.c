@@ -1,2 +1,2 @@
-change log init
-wangxu
+项目名称：王旭辉的第一次git学习
+
